@@ -1,0 +1,6 @@
+*.exe
+*.log
+.env
+
+.vscode/
+coverage/
