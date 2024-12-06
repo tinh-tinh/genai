@@ -78,6 +78,8 @@ github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsT
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/tinh-tinh/tinhtinh v1.2.2 h1:jSeal9V7xWmtDv3vm5nE5N/W2qU77L5UHhSSMxgtbRg=
 github.com/tinh-tinh/tinhtinh v1.2.2/go.mod h1:Ml1twSfPhVCckxSVPfZxiyLfPs2AM3aQqp4qlGoubrk=
+github.com/tinh-tinh/tinhtinh v1.4.0 h1:Z+nx5gpKJ5o2EWZuB8DFRh+PYwFgIwUeA+SaliYyK7c=
+github.com/tinh-tinh/tinhtinh v1.4.0/go.mod h1:Ml1twSfPhVCckxSVPfZxiyLfPs2AM3aQqp4qlGoubrk=
 go.opencensus.io v0.24.0 h1:y73uSU6J157QMP2kn2r30vwW1A2W2WFwSCGnAVxeaD0=
 go.opencensus.io v0.24.0/go.mod h1:vNK8G9p7aAivkbmorf4v+7Hgx+Zs0yY+0fOtgBfjQKo=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.54.0 h1:r6I7RJCN86bpD/FQwedZ0vSixDpwuWREjW9oRMsmqDc=
