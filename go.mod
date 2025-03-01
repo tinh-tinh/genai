@@ -1,11 +1,11 @@
-module github.com/tinh-tinh/genai
+module github.com/tinh-tinh/genai/v2
 
 go 1.22.2
 
 require (
 	github.com/google/generative-ai-go v0.18.0
 	github.com/stretchr/testify v1.9.0
-	github.com/tinh-tinh/tinhtinh v1.4.0
+	github.com/tinh-tinh/tinhtinh/v2 v2.0.0
 	google.golang.org/api v0.203.0
 )
 
